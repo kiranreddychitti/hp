@@ -1,1 +1,3 @@
-hello this is the github
+first time updated
+
+hello this is the git hp
